@@ -1,0 +1,23 @@
+INSERT INTO v0.servicos_prestados (id_usuario_cliente,id_usuario_prestador,id_profissao,avaliacao,observacao,data_avaliacao)
+values 
+(1,2,17,3,'servico prestado  1 - regular','2025-05-17'),
+(1,3,5,4,'servico prestado  2 - bom','2025-03-15'),
+(2,3,5,5,'servico prestado  3 - otimo','2025-04-16'),
+(2,5,9,3,'servico prestado  5 - regular','2025-01-20'),
+(3,6,16,4,'servico prestado  6 - bom','2025-01-20'),
+(3,7,9,5,'servico prestado  7 - otimo','2025-01-18'),
+(4,1,7,1,'servico prestado  8 - pessimo','2025-01-18'),
+(4,2,17,3,'servico prestado  9 - regular','2025-02-18'),
+(4,3,5,4,'servico prestado 10 - bom','2025-02-25'),
+(5,1,16,5,'servico prestado 11 - otimo','2025-03-18'),
+(5,3,5,2,'servico prestado 12 - ruim','2025-04-10'),
+(5,4,10,3,'servico prestado 13 - regular','2025-05-11'),
+(6,1,6,4,'servico prestado 14 - bom','2025-04-18'),
+(6,2,17,5,'servico prestado 15 - otimo','2025-03-10'),
+(6,3,5,1,'servico prestado 16 - pessimo','2025-02-18'),
+(6,4,16,3,'servico prestado 17 - regular','2025-01-21'),
+(6,5,2,4,'servico prestado 18 - bom','2025-04-16'),
+(7,2,17,5,'servico prestado 19 - otimo','2025-05-15'),
+(7,4,10,1,'servico prestado 20 - pessimo','2025-02-05'),
+(7,5,3,4,'servico prestado 21 - bom','2024-12-12'),
+(4,7,9,5,'servico prestado 22 - otimo','2025-01-14');
